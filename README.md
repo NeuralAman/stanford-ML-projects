@@ -5,3 +5,6 @@ Contains implementations for
 - Multiple Linear Regression
 - Logistic Regression
 - Neural Networks
+- Support Vectir Machines
+- K-Means Clustering
+- Anomaly detection
